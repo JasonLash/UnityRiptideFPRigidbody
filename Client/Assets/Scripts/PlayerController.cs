@@ -87,7 +87,7 @@ namespace Riptide.Demos.DedicatedClient
             cTick = 0;
 
             Cursor.visible = false;
-            Cursor.lockState = CursorLockMode.Locked;
+            //Cursor.lockState = CursorLockMode.Locked;
         }
 
 
